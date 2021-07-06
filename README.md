@@ -18,6 +18,8 @@ install numpy library:
 <pre>    pip install numpy </pre>
 install matplotlib library:
 <pre>    pip install matplotlib </pre>
+install seaborn library:
+<pre>    pip install seaborn </pre>
 
 ### Model and Accuracy:
 
