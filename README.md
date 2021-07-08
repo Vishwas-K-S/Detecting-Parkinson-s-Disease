@@ -9,7 +9,7 @@
 #### Download dataset from [kaggle](https://www.kaggle.com/gargmanas/parkinsonsdataset)
 
 ### Installation
-#### before installing dependencies, install [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/).
+#### before installing dependencies, install [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/).If you haven't
 install scikit-learn library:
 <pre>    pip install sikit-learn </pre>
 install pandas library:
